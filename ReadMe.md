@@ -3,16 +3,14 @@
 ## Backend Code: Find the backend repository and documentation for details on connecting it with this backend.
 
 ## Application Access
-You can check out the application using the following links:
-
+# You can check out the application using the following links:
 Backend: https://technotesfor88nextabackend-production.up.railway.app
 Frontend: https://technotesfor88nextafrontend-production.up.railway.app
 
-Frontend Login Credentials
-For testing purposes, please use the following login credentials:
+# Frontend Login Credentials for testing purposes, please use the following login credentials:
 Username: EthanD
 Password: asdASD
-Note: Unfortunately, I cannot provide Admin or Manager login credentials due to security reasons. Thank you for understanding.
+# Note: Unfortunately, I cannot provide Admin or Manager login credentials due to security reasons. Thank you for understanding.
 
 ### User Stories for techNotes
 1. [x] Replace current sticky note system
@@ -34,4 +32,13 @@ Note: Unfortunately, I cannot provide Admin or Manager login credentials due to 
 17. [x] Managers and Admins can view, edit, and delete all notes 
 18. [x] Only Managers and Admins can access User Settings 
 19. [x] Only Managers and Admins can create new users 
-20. [x] Desktop mode is most important but should be available in mobile 
+20. [x] Desktop mode is most important but should be available in mobile
+
+![1](https://github.com/user-attachments/assets/095966dd-34c2-4674-a37c-033bf166ba53)
+![2](https://github.com/user-attachments/assets/c47d4697-321d-400c-98a1-e15b4d0da396)
+![3](https://github.com/user-attachments/assets/10270afd-c53c-4940-b08c-749a49058aac)
+![4](https://github.com/user-attachments/assets/de7bb805-ad85-42e9-9211-94a37d50ee3e)
+![5](https://github.com/user-attachments/assets/39c50b5d-1f9e-4180-a60e-cd4c37b8b07a)
+![6](https://github.com/user-attachments/assets/000d96be-51fd-4263-970a-e776a809fd61)
+![7](https://github.com/user-attachments/assets/5f51699b-1006-4be8-a453-ca1eb3d89344)
+![8](https://github.com/user-attachments/assets/64951d9f-4462-4763-a261-f59b550c6eb1)
