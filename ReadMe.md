@@ -2,6 +2,18 @@
 
 ## Backend Code: Find the backend repository and documentation for details on connecting it with this backend.
 
+## Application Access
+You can check out the application using the following links:
+
+Backend: https://technotesfor88nextabackend-production.up.railway.app
+Frontend: https://technotesfor88nextafrontend-production.up.railway.app
+
+Frontend Login Credentials
+For testing purposes, please use the following login credentials:
+Username: EthanD
+Password: asdASD
+Note: Unfortunately, I cannot provide Admin or Manager login credentials due to security reasons. Thank you for understanding.
+
 ### User Stories for techNotes
 1. [x] Replace current sticky note system
 2. [x] Add a public facing page with basic contact info 
